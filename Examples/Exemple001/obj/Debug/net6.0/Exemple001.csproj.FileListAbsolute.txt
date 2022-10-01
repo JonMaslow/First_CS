@@ -1,0 +1,15 @@
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\bin\Debug\net6.0\Exemple001.exe
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\bin\Debug\net6.0\Exemple001.deps.json
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\bin\Debug\net6.0\Exemple001.runtimeconfig.json
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\bin\Debug\net6.0\Exemple001.dll
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\bin\Debug\net6.0\Exemple001.pdb
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.csproj.AssemblyReference.cache
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.AssemblyInfoInputs.cache
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.AssemblyInfo.cs
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.csproj.CoreCompileInputs.cache
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.dll
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\refint\Exemple001.dll
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.pdb
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\Exemple001.genruntimeconfig.cache
+D:\Обучение gegbrains\language С#\FirstLesson\Examples\Exemple001\obj\Debug\net6.0\ref\Exemple001.dll
