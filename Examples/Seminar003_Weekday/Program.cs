@@ -13,3 +13,5 @@ if (day == 4) Console.WriteLine($"{day} -> четверг");
 if (day == 5) Console.WriteLine($"{day} -> пятница");
 if (day == 6) Console.WriteLine($"{day} -> суббота");
 if (day == 7) Console.WriteLine($"{day} -> воскресенье");
+else
+Console.WriteLine("Вы ввели не верное число");
