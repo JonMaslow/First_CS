@@ -13,10 +13,8 @@ int b = int.Parse(numberB);
 int result = b * b;
 
 if (result == a)
-{
-    Console.WriteLine($"a = {a}, b= {b} -> да");
-}
+
+    Console.WriteLine($"Число a = {a}, является квадратом числа b = {b} ");
 else
-{
-    Console.WriteLine($"a = {a}, b = {b} -> нет");
-}
+
+    Console.WriteLine($"Число a = {a}, не является квдратом числа b = {b}");
